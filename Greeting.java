@@ -9,7 +9,7 @@ public class Greeting{
 		}
 			
 		System.out.println("The sum of first "+n+" numbers is "+sum);
-		
+		System.out.println("End of Program");
 	}
 
 }
